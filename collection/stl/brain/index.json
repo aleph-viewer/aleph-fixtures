@@ -1,0 +1,44 @@
+{
+  "id": "https://aleph-fixtures.netlify.com/collection/stl/brain/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://aleph-fixtures.netlify.com/collection/stl/brain/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://aleph-fixtures.netlify.com/collection/stl/brain/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aleph-fixtures.netlify.com/collection/stl/brain/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://aleph-fixtures.netlify.com/collection/stl/brain/_brain/brain.json",
+                "type": "PhysicalObject",
+                "format": "model/stl",
+                "label": {
+                  "@none": [
+                    "_brain"
+                  ]
+                }
+              },
+              "target": "https://aleph-fixtures.netlify.com/collection/stl/brain/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_brain"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "brain"
+    ]
+  }
+}

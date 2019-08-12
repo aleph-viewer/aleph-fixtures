@@ -1,0 +1,4 @@
+{
+    "baseurl": "https://cdn.rawgit.com/FNNDSC/data/master/nifti/eun_brain/",
+    "series": ["eun_uchar_8.nii.gz"]
+}

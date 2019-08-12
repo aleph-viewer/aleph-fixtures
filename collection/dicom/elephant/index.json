@@ -1,0 +1,38 @@
+{
+  "id": "https://aleph-fixtures.netlify.com/collection/dicom/elephant/index.json",
+  "type": "Collection",
+  "items": [
+    {
+      "id": "https://aleph-fixtures.netlify.com/collection/dicom/elephant/dcm_multi_jpeg2000_16bit_20_slices/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "dcm_multi_jpeg2000_16bit_20_slices"
+        ]
+      }
+    },
+    {
+      "id": "https://aleph-fixtures.netlify.com/collection/dicom/elephant/dcm_multi_x0.5_y0.5_16bit_20_slices/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "dcm_multi_x0.5_y0.5_16bit_20_slices"
+        ]
+      }
+    },
+    {
+      "id": "https://aleph-fixtures.netlify.com/collection/dicom/elephant/elephant_manifest_20_slices/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "elephant_manifest_20_slices"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "elephant"
+    ]
+  }
+}

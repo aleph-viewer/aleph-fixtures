@@ -1,0 +1,20 @@
+{
+  "id": "https://aleph-fixtures.netlify.com/collection/nrrd/index.json",
+  "type": "Collection",
+  "items": [
+    {
+      "id": "https://aleph-fixtures.netlify.com/collection/nrrd/tooth/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "tooth"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "nrrd"
+    ]
+  }
+}

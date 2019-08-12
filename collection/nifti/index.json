@@ -1,0 +1,20 @@
+{
+  "id": "https://aleph-fixtures.netlify.com/collection/nifti/index.json",
+  "type": "Collection",
+  "items": [
+    {
+      "id": "https://aleph-fixtures.netlify.com/collection/nifti/brain/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "brain"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "nifti"
+    ]
+  }
+}

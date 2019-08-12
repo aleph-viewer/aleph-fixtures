@@ -1,0 +1,29 @@
+{
+  "id": "https://aleph-fixtures.netlify.com/collection/gltf/index.json",
+  "type": "Collection",
+  "items": [
+    {
+      "id": "https://aleph-fixtures.netlify.com/collection/gltf/bowl-draco/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "bowl-draco"
+        ]
+      }
+    },
+    {
+      "id": "https://aleph-fixtures.netlify.com/collection/gltf/fisherman/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "fisherman"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "gltf"
+    ]
+  }
+}

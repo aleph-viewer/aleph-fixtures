@@ -1,0 +1,47 @@
+{
+  "id": "https://aleph-fixtures.netlify.com/collection/dicom/index.json",
+  "type": "Collection",
+  "items": [
+    {
+      "id": "https://aleph-fixtures.netlify.com/collection/dicom/bat/index.json",
+      "type": "Collection",
+      "label": {
+        "@none": [
+          "bat"
+        ]
+      }
+    },
+    {
+      "id": "https://aleph-fixtures.netlify.com/collection/dicom/brain/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "brain"
+        ]
+      }
+    },
+    {
+      "id": "https://aleph-fixtures.netlify.com/collection/dicom/elephant/index.json",
+      "type": "Collection",
+      "label": {
+        "@none": [
+          "elephant"
+        ]
+      }
+    },
+    {
+      "id": "https://aleph-fixtures.netlify.com/collection/dicom/platypus/index.json",
+      "type": "Collection",
+      "label": {
+        "@none": [
+          "platypus"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "dicom"
+    ]
+  }
+}

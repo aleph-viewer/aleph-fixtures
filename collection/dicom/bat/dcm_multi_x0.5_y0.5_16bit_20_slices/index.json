@@ -1,0 +1,44 @@
+{
+  "id": "https://aleph-fixtures.netlify.com/collection/dicom/bat/dcm_multi_x0.5_y0.5_16bit_20_slices/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://aleph-fixtures.netlify.com/collection/dicom/bat/dcm_multi_x0.5_y0.5_16bit_20_slices/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://aleph-fixtures.netlify.com/collection/dicom/bat/dcm_multi_x0.5_y0.5_16bit_20_slices/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aleph-fixtures.netlify.com/collection/dicom/bat/dcm_multi_x0.5_y0.5_16bit_20_slices/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.morphosource.org/media/morphosource/dcm_sample/bat/dcm_multi_x0.5_y0.5_16bit_20_slices.json",
+                "type": "PhysicalObject",
+                "format": "application/dicom",
+                "label": {
+                  "@none": [
+                    "_file"
+                  ]
+                }
+              },
+              "target": "https://aleph-fixtures.netlify.com/collection/dicom/bat/dcm_multi_x0.5_y0.5_16bit_20_slices/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_file"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "dcm_multi_x0.5_y0.5_16bit_20_slices"
+    ]
+  }
+}
