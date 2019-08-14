@@ -12,6 +12,15 @@
       }
     },
     {
+      "id": "https://aleph-fixtures.netlify.com/collection/gltf/bunny/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "bunny"
+        ]
+      }
+    },
+    {
       "id": "https://aleph-fixtures.netlify.com/collection/gltf/fisherman/index.json",
       "type": "Manifest",
       "label": {
