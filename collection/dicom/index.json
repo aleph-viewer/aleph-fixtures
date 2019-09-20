@@ -37,6 +37,15 @@
           "platypus"
         ]
       }
+    },
+    {
+      "id": "https://aleph-fixtures.netlify.com/collection/dicom/tree-shrew/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "tree-shrew"
+        ]
+      }
     }
   ],
   "label": {
