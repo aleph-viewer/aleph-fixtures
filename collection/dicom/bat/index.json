@@ -1,9 +1,9 @@
 {
-  "id": "https://aleph-fixtures.netlify.com/collection/dicom/bat/index.json",
+  "id": "https://aleph-fixtures.netlify.app/collection/dicom/bat/index.json",
   "type": "Collection",
   "items": [
     {
-      "id": "https://aleph-fixtures.netlify.com/collection/dicom/bat/bat_manifest_20_slices/index.json",
+      "id": "https://aleph-fixtures.netlify.app/collection/dicom/bat/bat_manifest_20_slices/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -12,7 +12,7 @@
       }
     },
     {
-      "id": "https://aleph-fixtures.netlify.com/collection/dicom/bat/dcm_multi_jpeg2000_16bit_20_slices/index.json",
+      "id": "https://aleph-fixtures.netlify.app/collection/dicom/bat/dcm_multi_jpeg2000_16bit_20_slices/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "https://aleph-fixtures.netlify.com/collection/dicom/bat/dcm_multi_x0.5_y0.5_16bit_20_slices/index.json",
+      "id": "https://aleph-fixtures.netlify.app/collection/dicom/bat/dcm_multi_x0.5_y0.5_16bit_20_slices/index.json",
       "type": "Manifest",
       "label": {
         "@none": [

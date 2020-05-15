@@ -1,9 +1,9 @@
 {
-  "id": "https://aleph-fixtures.netlify.com/collection/nifti/index.json",
+  "id": "https://aleph-fixtures.netlify.app/collection/nifti/index.json",
   "type": "Collection",
   "items": [
     {
-      "id": "https://aleph-fixtures.netlify.com/collection/nifti/brain/index.json",
+      "id": "https://aleph-fixtures.netlify.app/collection/nifti/brain/index.json",
       "type": "Manifest",
       "label": {
         "@none": [

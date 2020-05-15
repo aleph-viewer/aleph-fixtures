@@ -1,21 +1,21 @@
 {
-  "id": "https://aleph-fixtures.netlify.com/collection/nifti/brain/index.json",
+  "id": "https://aleph-fixtures.netlify.app/collection/nifti/brain/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://aleph-fixtures.netlify.com/collection/nifti/brain/index.json/canvas/0",
+      "id": "https://aleph-fixtures.netlify.app/collection/nifti/brain/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://aleph-fixtures.netlify.com/collection/nifti/brain/index.json/canvas/0/annotationpage/0",
+          "id": "https://aleph-fixtures.netlify.app/collection/nifti/brain/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aleph-fixtures.netlify.com/collection/nifti/brain/index.json/canvas/0/annotation/0",
+              "id": "https://aleph-fixtures.netlify.app/collection/nifti/brain/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://aleph-fixtures.netlify.com/collection/nifti/brain/_brain/brain.json",
+                "id": "https://aleph-fixtures.netlify.app/collection/nifti/brain/_brain/brain.json",
                 "type": "PhysicalObject",
                 "format": "application/gzip",
                 "label": {
@@ -24,7 +24,7 @@
                   ]
                 }
               },
-              "target": "https://aleph-fixtures.netlify.com/collection/nifti/brain/index.json/canvas/0"
+              "target": "https://aleph-fixtures.netlify.app/collection/nifti/brain/index.json/canvas/0"
             }
           ]
         }

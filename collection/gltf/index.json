@@ -1,9 +1,9 @@
 {
-  "id": "https://aleph-fixtures.netlify.com/collection/gltf/index.json",
+  "id": "https://aleph-fixtures.netlify.app/collection/gltf/index.json",
   "type": "Collection",
   "items": [
     {
-      "id": "https://aleph-fixtures.netlify.com/collection/gltf/bowl-draco/index.json",
+      "id": "https://aleph-fixtures.netlify.app/collection/gltf/bowl-draco/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -12,7 +12,7 @@
       }
     },
     {
-      "id": "https://aleph-fixtures.netlify.com/collection/gltf/bunny/index.json",
+      "id": "https://aleph-fixtures.netlify.app/collection/gltf/bunny/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "https://aleph-fixtures.netlify.com/collection/gltf/fisherman/index.json",
+      "id": "https://aleph-fixtures.netlify.app/collection/gltf/fisherman/index.json",
       "type": "Manifest",
       "label": {
         "@none": [

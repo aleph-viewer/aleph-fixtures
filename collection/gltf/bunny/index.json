@@ -1,21 +1,21 @@
 {
-  "id": "https://aleph-fixtures.netlify.com/collection/gltf/bunny/index.json",
+  "id": "https://aleph-fixtures.netlify.app/collection/gltf/bunny/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://aleph-fixtures.netlify.com/collection/gltf/bunny/index.json/canvas/0",
+      "id": "https://aleph-fixtures.netlify.app/collection/gltf/bunny/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://aleph-fixtures.netlify.com/collection/gltf/bunny/index.json/canvas/0/annotationpage/0",
+          "id": "https://aleph-fixtures.netlify.app/collection/gltf/bunny/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aleph-fixtures.netlify.com/collection/gltf/bunny/index.json/canvas/0/annotation/0",
+              "id": "https://aleph-fixtures.netlify.app/collection/gltf/bunny/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://aleph-fixtures.netlify.com/collection/gltf/bunny/_bunny/bunny_default_materials.glb",
+                "id": "https://aleph-fixtures.netlify.app/collection/gltf/bunny/_bunny/bunny_default_materials.glb",
                 "type": "PhysicalObject",
                 "format": "model/gltf-binary",
                 "label": {
@@ -24,7 +24,7 @@
                   ]
                 }
               },
-              "target": "https://aleph-fixtures.netlify.com/collection/gltf/bunny/index.json/canvas/0"
+              "target": "https://aleph-fixtures.netlify.app/collection/gltf/bunny/index.json/canvas/0"
             }
           ]
         }

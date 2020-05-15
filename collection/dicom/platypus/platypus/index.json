@@ -1,0 +1,44 @@
+{
+  "id": "https://aleph-fixtures.netlify.app/collection/dicom/platypus/platypus/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://aleph-fixtures.netlify.app/collection/dicom/platypus/platypus/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://aleph-fixtures.netlify.app/collection/dicom/platypus/platypus/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aleph-fixtures.netlify.app/collection/dicom/platypus/platypus/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://alembic-dcm.netlify.app/plat400/plat400.dcm",
+                "type": "PhysicalObject",
+                "format": "application/dicom",
+                "label": {
+                  "@none": [
+                    "_file"
+                  ]
+                }
+              },
+              "target": "https://aleph-fixtures.netlify.app/collection/dicom/platypus/platypus/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_file"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "platypus"
+    ]
+  }
+}

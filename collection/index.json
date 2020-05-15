@@ -1,9 +1,9 @@
 {
-  "id": "https://aleph-fixtures.netlify.com/collection/index.json",
+  "id": "https://aleph-fixtures.netlify.app/collection/index.json",
   "type": "Collection",
   "items": [
     {
-      "id": "https://aleph-fixtures.netlify.com/collection/dicom/index.json",
+      "id": "https://aleph-fixtures.netlify.app/collection/dicom/index.json",
       "type": "Collection",
       "label": {
         "@none": [
@@ -12,7 +12,7 @@
       }
     },
     {
-      "id": "https://aleph-fixtures.netlify.com/collection/gltf/index.json",
+      "id": "https://aleph-fixtures.netlify.app/collection/gltf/index.json",
       "type": "Collection",
       "label": {
         "@none": [
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "https://aleph-fixtures.netlify.com/collection/nifti/index.json",
+      "id": "https://aleph-fixtures.netlify.app/collection/nifti/index.json",
       "type": "Collection",
       "label": {
         "@none": [
@@ -30,7 +30,7 @@
       }
     },
     {
-      "id": "https://aleph-fixtures.netlify.com/collection/nrrd/index.json",
+      "id": "https://aleph-fixtures.netlify.app/collection/nrrd/index.json",
       "type": "Collection",
       "label": {
         "@none": [
@@ -39,7 +39,7 @@
       }
     },
     {
-      "id": "https://aleph-fixtures.netlify.com/collection/stl/index.json",
+      "id": "https://aleph-fixtures.netlify.app/collection/stl/index.json",
       "type": "Collection",
       "label": {
         "@none": [
