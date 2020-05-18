@@ -28,6 +28,15 @@
           "fisherman"
         ]
       }
+    },
+    {
+      "id": "https://aleph-fixtures.netlify.app/collection/gltf/turtle/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "turtle"
+        ]
+      }
     }
   ],
   "label": {
