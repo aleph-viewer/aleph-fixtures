@@ -30,6 +30,15 @@
       }
     },
     {
+      "id": "https://aleph-fixtures.netlify.app/collection/gltf/frog-draco/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "frog-draco"
+        ]
+      }
+    },
+    {
       "id": "https://aleph-fixtures.netlify.app/collection/gltf/turtle/index.json",
       "type": "Manifest",
       "label": {
